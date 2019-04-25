@@ -21,3 +21,5 @@ Testing more
   Ki allo text
   
   Akoma ligo text
+  
+  ki allo akoma text
