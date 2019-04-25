@@ -14,3 +14,6 @@ Testing more
 
 ##Test area 2
  some more testing stuff
+ 
+### Copyright
+  Copyright notice test
